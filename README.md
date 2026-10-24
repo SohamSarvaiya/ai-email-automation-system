@@ -97,12 +97,3 @@ docs/           architecture diagram
 - [ ] Docker image
 - [ ] Attachment handling
 
-## Demo video
-Add your link here after recording (see "Demo script" below).
-
-### Demo script (2-3 min)
-1. Show `/docs` and process the 4 example emails with `method=rules`.
-2. Show extracted info and the draft reply.
-3. Enable the API key, run `method=both` on a tricky email, show the review flag.
-4. Run `python -m scripts.compare_classifiers` and `pytest`.
-5. Show `/logs`.
