@@ -30,7 +30,7 @@ git clone https://github.com/SohamSarvaiya/ai-email-automation-system.git
 cd ai-email-automation-system
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
-cp .env.example .env        # add ANTHROPIC_API_KEY to enable the LLM (optional)
+cp .env.example .env        # add API_KEY to enable the LLM (optional)
 uvicorn app.main:app --reload
 ```
 Open http://127.0.0.1:8000/docs for the interactive API documentation (Swagger UI).
