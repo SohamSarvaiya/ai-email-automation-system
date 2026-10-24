@@ -1,0 +1,14 @@
+[
+  {"sender": "rahul.sharma@example.com", "subject": "My order is delayed", "body": "Hi, I placed order ORD-48213 five days ago and it has not been delivered yet. Please update me ASAP.", "expected_category": "Order Support"},
+  {"sender": "priya.patel@example.com", "subject": "Need product pricing", "body": "Hello, we are interested in buying 200 units. Can you share a quotation and bulk discount? Call me on +91 98765 43210.", "expected_category": "Sales Inquiry"},
+  {"sender": "amit.kumar@example.com", "subject": "Cannot log in", "body": "I can't log in to my account since morning. It shows an error after I enter the password. This is urgent.", "expected_category": "Technical Support"},
+  {"sender": "neha.singh@example.com", "subject": "Please send invoice", "body": "Please send me the invoice INV-2024-0099 for the payment of Rs. 12,500 made last week. Need GST details too.", "expected_category": "Billing"},
+  {"sender": "vikram@example.com", "subject": "Tracking number needed", "body": "Where is my package? Order #77120 shows shipped but tracking is not updating.", "expected_category": "Order Support"},
+  {"sender": "sunita@example.com", "subject": "Demo request", "body": "We would like a demo of your enterprise plans for our team of 50.", "expected_category": "Sales Inquiry"},
+  {"sender": "karan@example.com", "subject": "App keeps crashing", "body": "The mobile app crashes every time I open the reports page. Please fix this bug.", "expected_category": "Technical Support"},
+  {"sender": "meera@example.com", "subject": "Charged twice", "body": "I was charged $49 twice for the same month. Please refund the extra amount and send the receipt.", "expected_category": "Billing"},
+  {"sender": "arjun@example.com", "subject": "I want my money back", "body": "The shoes I bought arrived damaged. I want to send them back and get my money back.", "expected_category": "Order Support"},
+  {"sender": "divya@example.com", "subject": "Hello team", "body": "Just wanted to say thank you for the great service last month. Keep it up!", "expected_category": "General"},
+  {"sender": "rohit@example.com", "subject": "Unable to access dashboard", "body": "My dashboard page is blank and I get a 500 message. Nothing loads for me.", "expected_category": "Technical Support"},
+  {"sender": "sana@example.com", "subject": "How much does the premium tier cost?", "body": "Could you let me know the cost of your premium tier for a small business?", "expected_category": "Sales Inquiry"}
+]
